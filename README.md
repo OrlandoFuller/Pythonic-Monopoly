@@ -6,3 +6,4 @@ The goal of this dashboard is to provide charts, maps, and interactive visualiza
 Use the file named 'dashboard.ipynb' to have call each plot when ready for use. <br>
 Tab 'Bar Plots' shows all the bar plots. <br>
 Tab 'Line Plots' shows all the bar plots. <br>
+Tab 'Map Plots' shows all the map plots. <br>
